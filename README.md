@@ -7,5 +7,4 @@ A Solution to check the strength of password.
 * You have any suggestion to improve this project
 * You noticed any bug
 
-## Happy to accept any Pull Requests
 
