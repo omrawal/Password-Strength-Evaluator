@@ -1,2 +1,9 @@
 # Password-Strength-Calculation
-An Solution to check the strength of password.
+A Solution to check the strength of password.
+
+![Preview](Assets/demo.gif)
+
+## Please open an issue if
+* you have any suggestion to improve this project
+* you noticed any problem or error
+
