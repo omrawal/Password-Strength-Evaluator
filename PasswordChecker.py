@@ -5,7 +5,6 @@ from tkinter import Radiobutton, messagebox
 
 def checkPressed(win, qe, password, flag):
     qe.delete(0, tk.END)
-    # print('Pass= ', password, 'flag= ', flag)
     response = checkPass(password=password, flag=flag)
     messagebox.showinfo('Result',
                         response)
